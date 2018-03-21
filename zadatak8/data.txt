@@ -1,0 +1,9 @@
+Constituent   unit  min    max   measured 
+-----------------------------------------
+Magnesium     ppm    120  1400      1200
+Sodium        ppm     90   390      150
+Barium        ppm      7    58       42
+Iron          ppm      5    32       17
+Strontium     ppm    480  2000     2000 
+Aluminum      ppm     43   200       53 
+Lithium       ppm      5    40       30 

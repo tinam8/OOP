@@ -1,0 +1,7 @@
+The library concepts listed on this page are the named requirements used in the normative
+ text of the C++ standard to define the expectations of the standard library. It is expected
+ that a future version of the C++ standard library will formalize these library
+ concepts using the facilities of the above-mentioned technical specification. 
+Until then, the burden is on the programmer to ensure that library templates are
+ instantiated with template arguments that satisfy these concepts. Failure to do so may
+ result in very complex compiler diagnostics.

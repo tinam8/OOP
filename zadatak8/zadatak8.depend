@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1462879239 source:/.home/student1/mfilic/objektno/zadatak8/main.cpp
+	<iostream>
+	<thread>
+	<chrono>
+	<cstdlib>
+	"DataObserver.h"
+
+1462881533 /.home/student1/mfilic/objektno/zadatak8/DataObserver.h
+	<iostream>
+	<thread>
+	<chrono>
+	<cstdlib>
+	<list>
+	<map>
+	<string>
+	<ctime>
+	<vector>
+	<sys/stat.h>
+
+1462881754 source:/.home/student1/mfilic/objektno/zadatak8/DataObserver.cpp
+	"DataObserver.h"
+	<algorithm>
+	<fstream>
+
